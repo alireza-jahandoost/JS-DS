@@ -1,0 +1,23 @@
+{
+  "name": "js-ds",
+  "version": "1.0.0",
+  "description": "A set of data structures implemented by javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alireza-jahandoost/JS-DS.git"
+  },
+  "keywords": [
+    "javascript",
+    "datastructure"
+  ],
+  "author": "Alireza Jahandoost",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alireza-jahandoost/JS-DS/issues"
+  },
+  "homepage": "https://github.com/alireza-jahandoost/JS-DS#readme"
+}
