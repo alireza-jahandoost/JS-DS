@@ -4,7 +4,8 @@
   "description": "A set of data structures implemented by javascript",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test-watch": "jest --watch"
   },
   "repository": {
     "type": "git",
