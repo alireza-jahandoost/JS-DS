@@ -16,7 +16,7 @@ export default class Queue{
 
     front(){
         if(this.isEmpty()){
-            throw new Error('can not pop from empty queue');
+            throw new Error('can not return front of empty queue');
         }
         return this.#queue[this.#rear];
     }
